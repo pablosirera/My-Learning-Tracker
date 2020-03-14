@@ -13,20 +13,22 @@
 |**VueJS**|✅|✅|✅|
 |**Vuex**|✅|✅|✅|
 |**React**|✅|
+|**Nuxt**|✅|✅|
 ||||*CSS & HTML*|
 |**HTML5**|✅|✅|✅|✅|
 |**CSS3**|✅|✅|✅|✅|
-|**CSS Grid**|✅|
-|**Flexbox**|✅|✅|✅|
+|**Grid Layout**|✅|✅|✅|
+|**Flexbox**|✅|✅|✅|✅|
 |**Bootstrap**|✅|✅|✅|✅|
 |**Materialize**|✅|✅|
 |**Angular Material**|✅|✅|
-|**Vuetify**|✅|
+|**Vuetify**|✅|✅|✅|
+|**Buefy**|✅|✅|✅|
 ||||*Others*|
-|**TypeScript**|✅|✅|
+|**TypeScript**|✅|✅|✅|
 |**Command line**|✅|✅|✅|
 |**Responsive Design**|✅|✅|✅|
-|**Git**|✅|✅|✅|
+|**Git**|✅|✅|✅|✅|
 
 ---
 
